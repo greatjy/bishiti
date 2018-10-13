@@ -8,6 +8,7 @@ public class Main1
 	{
 		Scanner in = new Scanner(System.in);
 		int n = in.nextInt();
+		System.out.println(n);
 	}
 
 }
